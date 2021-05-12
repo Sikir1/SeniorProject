@@ -36,14 +36,19 @@ Brandon Dotson	Team Member	Developed backend and contributed to the project inte
 Kiran Sivakumar	Team Member	Contributed to the project integration and documentation
 Mohammad Asif	Team Member	Contributed to frontend development, project integeration, and documentation
 
-Acknowledgment
+Acknowledgments
+
 Special thanks to:
+
 Dr. W. Eric Wong Professor at UTD, instructor for our senior project
 Linghuan Hu Teaching Assistant at UTD, TA for our senior project
+
 Dr. Thomas Hill from Fellow Consulting Group, mentor and sponsor for our senior project
 
-License
+Licenses
+
 UTD & FCG
 
-Reference
+References
+
 provided inline
